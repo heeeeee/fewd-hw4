@@ -1,0 +1,8 @@
+.divider {
+	border-top: #CCC 1px solid;
+	margin: 20px 0 20px 0;
+}
+
+.draw-borders {
+	border: #CCC 1px solid;
+}
